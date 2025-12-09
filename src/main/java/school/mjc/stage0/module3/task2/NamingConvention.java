@@ -11,6 +11,7 @@ public class NamingConvention {
         int variable_6 = 6;
         int variable_7 = 7;
         int variable_8 = 8;
+
     }
 }
 
